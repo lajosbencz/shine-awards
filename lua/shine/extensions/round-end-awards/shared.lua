@@ -10,6 +10,8 @@ Plugin.DefaultConfig = { -- What's the default config setup?
 		MostDeaths = true,
 		MostDamageDealt = true,
 		MostDamageSuffered = true,
+		MostShots = true,
+		MostBites = true,
 		MostJumps = true,
 		FurthestTraveled = true,
 	}
